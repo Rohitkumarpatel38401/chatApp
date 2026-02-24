@@ -1,0 +1,4 @@
+
+_create_chats_table
+
+php artisan breeze:install
